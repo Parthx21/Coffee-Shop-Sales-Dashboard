@@ -1,4 +1,6 @@
 ☕ Coffee Shop Sales Dashboard
+
+
 📌 Project Overview
 This project presents an interactive Coffee Shop Sales Dashboard created to analyze sales performance, customer behavior, and product trends.
 The goal of this dashboard is to provide business insights that can help a coffee shop improve revenue, optimize inventory, and understand customer purchasing patterns.
